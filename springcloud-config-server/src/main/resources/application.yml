@@ -16,7 +16,7 @@ spring:
     config:
       server:
         git:
-          uri: https://git.coding.net/yirenyishi/springcloud-config-profile
+          uri: https://github.com/laiqq/springcloud-config-profile
           searchPaths: '{application}'
 security:
   basic:
